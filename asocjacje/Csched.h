@@ -9,6 +9,7 @@ class Csched {
 
 public:
     Csched(Cprog& one, Cprog& two);
+    ~Csched();
     void run(int ileRazy);
 };
 

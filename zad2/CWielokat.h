@@ -1,7 +1,3 @@
-//
-// Created by Rafał on 16.04.2017.
-//
-
 #ifndef ZAD2_CWIELOKAT_H
 #define ZAD2_CWIELOKAT_H
 

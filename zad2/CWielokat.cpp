@@ -1,7 +1,3 @@
-//
-// Created by Rafał on 16.04.2017.
-//
-
 #include "CWielokat.h"
 #include <iostream>
 
