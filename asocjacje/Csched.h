@@ -4,13 +4,12 @@
 #include "Cprog.h"
 
 class Csched {
-public:
-    Csched(Cprog& one, Cprog& two);
-    void run(int ileRazy);
-private:
     Cprog* pprog1;
     Cprog* pprog2;
 
+public:
+    Csched(Cprog& one, Cprog& two);
+    void run(int ileRazy);
 };
 
 #endif //CSCHED_H
